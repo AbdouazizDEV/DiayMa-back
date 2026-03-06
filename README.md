@@ -1,4 +1,4 @@
-# 🌍 SunuMarket API - DiayeMa Backend
+# 🌍 DiayMa API - DiayeMa Backend
 
 API REST pour **DiayeMa**, une plateforme e-commerce destinée à la population de Bambey (Sénégal).
 
